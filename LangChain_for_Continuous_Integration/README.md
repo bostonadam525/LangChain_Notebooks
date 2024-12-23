@@ -40,8 +40,15 @@
 
 
 
-
-
 ![image](https://github.com/user-attachments/assets/c40031b5-8c59-403d-b3d2-01f4bb82f1b6)
+
+
+
+# RAG Pipelines with LangChain (LLMOps)
+* Below is an excellent diagram of how LangChain is used in a RAG-LLM pipeline (source: Analytics Vidhyha):
+
+
+![image](https://github.com/user-attachments/assets/2ec82c5e-a40a-44da-b759-71ae2d4e1dbe)
+
 
 
