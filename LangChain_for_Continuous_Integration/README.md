@@ -37,6 +37,11 @@
       * LangGraph Cloud
     
 * OSS vs. Commerical Breakdown below:
-    ![image](https://github.com/user-attachments/assets/c40031b5-8c59-403d-b3d2-01f4bb82f1b6)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/c40031b5-8c59-403d-b3d2-01f4bb82f1b6)
 
 
