@@ -172,25 +172,25 @@
 
 * Breakdown of the Dataset process above:
   * **NOTE: This part is within the application (e.g. SaaS or On-prem)**
-  * 1. Engineer or any other team member can add the "Dataset" based on the expected input and outputs of the application. This may also include tests that need to be run on the application.
+    1. Engineer or any other team member can add the "Dataset" based on the expected input and outputs of the application. This may also include tests that need to be run on the application.
        * This is to ensure a baseline quality check prior to production deployment.
   * **NOTE: This part is within the CI/CD pipeline**
-  * 2. Engineer Intervenes when changes need to be made
+    2. Engineer Intervenes when changes need to be made
     3. Fetch Code
-  * 4. Fetch Dataset
+    4. Fetch Dataset
        * Dataset is fetched when changes need to be made and it can be brought into the CI/CD pipeline.
-  * 5. Evaluation
+    5. Evaluation
        * This can be done using the original Dataset created with benchmarks.
        * This allows easy comparison of the benchmarks with what the user is seeing in the production application.
-  * 6. Release
+    6. Release
        * After evaluating, we can then make a decision if the output of the NEW changes give better evaluation scores.
       
-  * 7. Production App
+    7. Production App
        * App is re-deployed into production if the outputs are satisfactory.
       
-  * 8. **Traces, Evaluation, User Feedback
+    8. **Traces, Evaluation, User Feedback
        * All end-user interaction with the application is stored in TRACES in the Langfuse ecosystem.
       
-  * 9. QA engineers can use the DATASET and TRACES to continually evaluate and update as needed. 
+    9. QA engineers can use the DATASET and TRACES to continually evaluate and update as needed. 
 
 
