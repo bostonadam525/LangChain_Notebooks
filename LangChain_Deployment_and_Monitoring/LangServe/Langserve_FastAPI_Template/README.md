@@ -1,4 +1,6 @@
 # Langserve FastAPI Template
+* By Adam Lang
+* Date: 1/21/2025
 * This is a template project to use for creating a simple Langchain application with deployment on a FastAPI server.
 
 
