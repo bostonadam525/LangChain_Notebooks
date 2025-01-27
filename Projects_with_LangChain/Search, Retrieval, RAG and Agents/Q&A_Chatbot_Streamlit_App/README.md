@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/9eb361f7-1ab6-4b80-b5f8-ffc611e80bbe)
 
 
-# Example of LangSmith Tracing Outputs
+# Demo of LangSmith Tracing Outputs
 * This is an example of the LangSmith tracing outputs from this app:
 
 ![image](https://github.com/user-attachments/assets/cff4f83b-6805-41b9-beb3-13df6a490b70)
