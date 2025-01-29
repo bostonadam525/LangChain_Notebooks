@@ -17,6 +17,7 @@
 4. Activate the virtual environment: `source venv/bin/activate`
 5. Before running the app make sure to install the requirements: `pip install -r requirements.txt`
 6. Make sure to have your API keys stored in your .env file.
+7. Create a directory in your project called `research_papers` to store the PDF files you want to perform RAG on. 
 
 
 # To run this app
